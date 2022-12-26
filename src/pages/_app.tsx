@@ -5,7 +5,7 @@ import type { AppProps } from 'next/app'
 
 globalStyles();
 
-const Container = styled('div', {
+const Container = styled('main', {
   padding: '0px 16px',
   width: '100%',
 })
